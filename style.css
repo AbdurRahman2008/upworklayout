@@ -1,0 +1,188 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerleft{
+    display: flex;
+    align-items: center; 
+}
+
+.headerright{
+    display: flex;
+    align-items: center; 
+}
+
+.logo{
+    height: 60px;
+    margin-right: 13px;
+}
+
+h4{
+    margin-right: 15px;
+    font-family:  'Proxima Nova', sans-serif;
+    
+}
+
+.signin{
+    background-color: green;
+            color: white;
+            padding: 10px;
+            border-radius: 30px; 
+            display: inline-block;
+
+}
+
+
+section{
+   display: flex;
+   justify-content: space-around;
+   
+   align-content: stretch;
+   flex-direction: column;
+
+   
+
+}
+
+
+
+
+.search{
+    display: flex;
+    
+}
+
+
+.try{
+     
+
+    margin-right: 25px;
+    padding: 17px;
+    border-radius: 30px; 
+   
+    border: 1px solid #C3CFC2;
+
+    padding-left: 30px; 
+            padding-right: 230px;
+
+
+
+}
+
+
+
+
+.started{
+    margin-right: 10px;
+    background-color: green;
+         color: white; 
+         padding: 13px; 
+          border-radius: 30px; 
+          display: inline-block;
+
+          padding-left: 30px; 
+            padding-right: 30px;
+
+         border: 1px
+
+         
+
+         
+          
+}
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    font-size: 80px;
+    font-family:   fallback;
+    margin: 0;
+    color: #14A800;
+    
+}
+
+
+h3{
+    font-family:   sans-serif;
+    
+}
+
+
+h2{
+    margin: 0;
+    font-family: sans-serif;
+    color: #5E6D7B;
+}
+
+
+
+.imgtext{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    
+
+}
+
+.texts{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+
+.image{
+    height: 400px;
+}
+
+
+.trusted{
+    color: #9AAA97;
+    margin: 0;
+}
+
+.logos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.lg{
+    height: 70px;
+}
+
+.air{
+  height: 35px;
+  margin-right: 17px;
+}
+
+.bi{
+    height: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
