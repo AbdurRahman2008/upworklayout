@@ -227,8 +227,20 @@ h5{
     display: inline-block;
 
     border: 1px;
+    padding-left: 80px;
+    padding-right: 80px;
     
     
+}
+
+.login{
+    color: black;
+    text-decoration: none;
+
+}
+
+a:visited {
+    color: #000000;
 }
 
 
